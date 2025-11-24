@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently studying<br>Electronics and ICT, with a growing passion for cybersecurity.<br><br>💡 I’m looking for help with<br>Learning ethical hacking techniques and best practices for hacking IoT devices.<br><br>🌱 I’m currently learning<br>penetration testing fundamentals
+🎓 I’m currently studying<br>Electronics ICT, with a growing passion for cybersecurity.<br><br>💡 I’m looking for help with<br>Learning ethical hacking techniques and best practices for hacking IoT devices.<br><br>🌱 I’m currently learning<br>penetration testing fundamentals
 
 
 ## 🌐 Socials:
